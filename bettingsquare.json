@@ -1,0 +1,64 @@
+[
+	{
+		"id": 1,
+		"number-range": "0",
+		"section": "",
+		"multiplier": 3
+	},
+	
+	{
+		"id": 1,
+		"number-range": "0-0",
+		"section": "",
+		"multiplier": 3
+	},
+	
+	{
+		"id": 2,
+		"number-range": "1-12",
+		"section": "",
+		"multiplier": 3
+	},
+	
+	{
+		"id": 3,
+		"number-range": "13-24",
+		"section": "",
+		"multiplier": 3
+	},
+	
+	{
+		"id": 4,
+		"number-range": "25-36",
+		"section": "",
+		"multiplier": 3
+	},
+	
+	{
+		"id": 5,
+		"number-range": "",
+		"section": "Red",
+		"multiplier": 2
+	},
+	
+	{
+		"id": 6,
+		"number-range": "",
+		"section": "Black",
+		"multiplier": 2
+	},
+	
+	{
+		"id": 7,
+		"number-range": "",
+		"section": "Odd",
+		"multiplier": 2
+	},
+	
+	{
+		"id": 8,
+		"number-range": "",
+		"section": "Even",
+		"multiplier": 2
+	}
+]
